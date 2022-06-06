@@ -7,5 +7,6 @@ public class Examples {
 
 }
 public void example() {
+	int x=3;
 	
 }
